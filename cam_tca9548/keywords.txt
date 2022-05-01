@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For HT16K33
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+CAM_TCA9548	KEYWORD1
+TCA9548		KEYWORD1
+cam_tca9548	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+tca9548		KEYWORD2
+begin		KEYWORD2
+setChannel	KEYWORD2
+getChanal	KEYWORD2
+test_device	KEYWORD2
+scan		KEYWORD2
+ifInList	KEYWORD2
+test_I2C	KEYWORD2
+write_I2C	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
