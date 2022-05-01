@@ -30,7 +30,7 @@ H  H  H     119 (decimal), 77 (hexadecimal)
 
 #include "TCA9548.h"
 
-CAP_TCA9548 tca9548;
+CAM_TCA9548 tca9548;
 
 void setup() {
   Serial.begin(9600);
@@ -38,9 +38,25 @@ void setup() {
     Serial.println("tca9548 not Found");
     while (1) {}
   }
-  Serial.println("Start tca9548 Scan");
   Serial.println(tca9548.scan());
 }
 
 void loop() {}
+```
+
+output
+
+```
+tca9548 Scan
+Global (Ch. 0): 
+ -  Address: 0x22
+ -  Address: 0x70
+Channel: 1
+ -  Address: 0x27
+Channel: 3
+ -  Address: 0x75
+Channel: 4
+ -  Address: 0x27
+Channel: 8
+ -  Address: 0x20
 ```
