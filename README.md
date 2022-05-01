@@ -36,6 +36,10 @@
 </table> 
 
 
+# Eagle lib & examples
+
+[tda9458 libraries](/Eagle/tda9458.lbr)
+
 # example
 
 ## DEMO 1: Simple Scanner
