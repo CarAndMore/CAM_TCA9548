@@ -38,12 +38,12 @@
 
 # example
 
-## Simple Scanner
+## DEMO 1: Simple Scanner
 
 ```cpp
 #define TCA9548_addr 0x70
 
-#include "TCA9548.h"
+#include <cam_tca9548.h>
 
 CAM_TCA9548 tca9548;
 
@@ -75,3 +75,5 @@ Channel: 4
 Channel: 8
  -  Address: 0x20
 ```
+
+## DEMO 2:
