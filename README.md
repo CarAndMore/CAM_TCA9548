@@ -3,23 +3,41 @@
 [tca9548 datasheet](https://cdn-shop.adafruit.com/datasheets/tca9548a.pdf) by adafruit
 
 
-A2 A1 A0
+![tca9548](/img/tca9548.svg)
 
-L  L  L     112 (decimal), 70 (hexadecimal)
+ <table>
+  <tr>
+    <th>A2</th><th>A1</th><th>A0</th><th>decimal</th><th>hexadecimal</th>    
+  </tr>
+  
+  <tr>
+    <td>L</td><td>L</td><td>L</td> <td>112</td> <td>70</td>    
+  </tr>
+  <tr>
+    <td>L</td><td>L</td><td>H</td> <td>113</td> <td>71</td>    
+  </tr>
+  <tr>
+    <td>L</td><td>H</td><td>L</td> <td>114</td> <td>72</td>    
+  </tr>
+  <tr>
+    <td>L</td><td>H</td><td>H</td> <td>115</td> <td>73</td>    
+  </tr>
+  
+  <tr>
+    <td>H</td><td>L</td><td>L</td> <td>116</td> <td>74</td>    
+  </tr>
+  <tr>
+    <td>H</td><td>L</td><td>H</td> <td>117</td> <td>75</td>    
+  </tr>
+  <tr>
+    <td>H</td><td>H</td><td>L</td> <td>118</td> <td>76</td>    
+  </tr>
+  <tr>
+    <td>H</td><td>H</td><td>H</td> <td>119</td> <td>77</td>    
+  </tr>
+  
+</table> 
 
-L  L  H     113 (decimal), 71 (hexadecimal)
-
-L  H  L     114 (decimal), 72 (hexadecimal)
-
-L  H  H     115 (decimal), 73 (hexadecimal)
-
-H  L  L     116 (decimal), 74 (hexadecimal)
-
-H  L  H     117 (decimal), 75 (hexadecimal)
-
-H  H  L     118 (decimal), 76 (hexadecimal)
-
-H  H  H     119 (decimal), 77 (hexadecimal)
 
 # example
 
