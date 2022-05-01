@@ -40,6 +40,9 @@
 
 [tda9458 libraries](/Eagle/tda9458.lbr)
 
+![ht16k33](/img/tca9458a_ic.jpg)
+![ht16k33](/img/tca9458a_modul.jpg)
+
 # example
 
 ## DEMO 1: Simple Scanner
