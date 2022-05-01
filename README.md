@@ -74,13 +74,25 @@ Global (Ch. 0):
  -  Address: 0x22
  -  Address: 0x70
 Channel: 1
+ -  Address: 0x23
  -  Address: 0x27
+Channel: 2
+ -  Address: 0x23
 Channel: 3
+ -  Address: 0x23
  -  Address: 0x75
 Channel: 4
+ -  Address: 0x23
  -  Address: 0x27
+Channel: 5
+ -  Address: 0x23
+Channel: 6
+ -  Address: 0x23
+Channel: 7
+ -  Address: 0x23
 Channel: 8
  -  Address: 0x20
+ -  Address: 0x23
 ```
 
 ## DEMO 2:
