@@ -72,6 +72,7 @@ output
 tca9548 Scan
 Global (Ch. 0): 
  -  Address: 0x22
+ -  Address: 0x68
  -  Address: 0x70
 Channel: 1
  -  Address: 0x23
